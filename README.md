@@ -1,0 +1,2 @@
+
+This repository contains the data and code generated for Speed et al., 2024. Field meausurements and RTK GPS locations are available in the `field_data` directory. The structure-from-motion derived point clouds and 3D meshes are available on [Sketchfab](https://sketchfab.com/c.speed/models). Lidar data is hosted by [OpenTopography](https://portal.opentopography.org/lidarDataset?opentopoID=OTLAS.052020.6341.1).
